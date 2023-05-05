@@ -1,8 +1,4 @@
 {
-    "rust-analyzer.linkedProjects": [
-        "./project5/Cargo.toml",
-        "./project5/Cargo.toml"
-    ],
     "editor.formatOnSave": true,
     "editor.inlayHints.enabled": "offUnlessPressed"
 }
